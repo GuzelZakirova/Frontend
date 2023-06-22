@@ -1,5 +1,6 @@
 body {
     margin: 0;
+    background-color: #fdf4e3;
 }
 
 p {
@@ -12,7 +13,7 @@ p {
     margin: 0 auto;
 }
 
-.body__home {
+/* .body__home {
     background-color: #fdf4e3;
 }
 
@@ -30,7 +31,7 @@ p {
 
 .body__contact {
     background-color: #ffebcd;
-}
+} */
 
 /* ------------------------------------------ */
 
@@ -100,6 +101,21 @@ img {
 
 .text {
     margin-top: 50%;
+}
+
+/* ---------------------------------------------------------------------- */
+
+.comic {
+    text-align: center;
+}
+
+.comic-button {
+    margin-bottom: 10px;
+    
+}
+
+#get-comic {
+    font-size: 20px;
 }
 
 /* ---------------------------------------------------------------------- */
